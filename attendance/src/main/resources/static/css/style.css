@@ -1,0 +1,102 @@
+
+        .ValidText{
+          font-size: 75px;
+  
+          color: white;
+          
+        }
+
+        .studentImageStyle{
+         padding-left: 100px;
+         padding-top: 30px;
+        }
+
+        .InfoCardStyle{
+          padding-top: 100px;
+          padding-left: 70px;
+          overflow: hidden;
+          color:white;
+        }
+        .ValidInvalidImage{
+          padding-top: 50px;
+          padding-left: 50px;
+        }
+        .background-image{
+             background: url(../img/blur.png) no-repeat;
+            background-size: cover;
+        }
+        .header-style{
+          color: white;
+          font-size: 40px;
+        }
+        .ValidContainer{
+          background-color: #5cb85c;
+          padding-top: 15px;
+          padding-bottom: 20px;
+          padding-left: 60px;
+          margin-left: 70px;
+          border-radius: 200px;
+          margin-top: 20px;
+        }
+        .container-background{
+          background: rgba(0, 0, 0, 0.50);
+          margin-top: 40px;
+          margin-right: 40px;
+          margin-left: 40px;
+          border-radius: 20px;
+
+        }
+
+        .invalidContainer{
+          background-color:#c9302c;
+          color: #FFFFFF;
+          margin-top: 20px;
+          padding-top: 10px;
+          padding-bottom: 20px;
+          border-radius: 200px;
+        }
+        .noticeTextContainer {
+           color: #a94442;
+           background-color:#f2dede;
+           margin-top: 30px;
+           margin-bottom: 30px;
+           border-radius: 10px;
+           box-shadow: 5px 5px 5px black;
+        }
+        .rejectedContainerMargin{
+          margin-top: 100px;
+          padding-top: 100px;
+          padding-bottom: 100px;
+        }
+
+        .todaysVisitStyle{
+          color: #FFFFFF;
+          background-color: #449d44;
+          border-radius: 10px;
+          margin-top: 15px;
+          margin-bottom: 20px;
+        }
+        .punchcardStyle{
+          color: #FFFFFF;
+        }
+		.footer {
+			
+			position:fixed;
+			
+             bottom:0;
+		}
+		
+		.container-background-info{
+		   
+          background: rgba(0, 0, 0, 0.50);
+		  margin-right: 60px;
+          margin-left: 0px;
+		  
+		  
+			padding-left: 150px;
+			padding-top: 50px;
+          
+          border-radius: 20px;
+		  
+
+        }
